@@ -16,7 +16,7 @@ This will record rosbags with 1 minute duration. Very helpful to prevent corrupt
 To run, go to the project location in terminal and do
 
 ```
-./merge_multiple
+./merge_multiple.sh
 ```
 
 If the rosbags saved are in the format <br/>
